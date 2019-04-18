@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56037404-aa52-46d5-86f4-66d8683dd019" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery_Starter_Files/jquery/jquery-3.4.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/01_JQuery_Basics/01_JQuery_Basics.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/01_JQuery_Basics/01_JQuery_Basics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/02_JQuery_Selectors/02_JQuery_Selectors.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/02_JQuery_Selectors/02_JQuery_Selectors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/03_JQuery_Events/03_JQuery_Events.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/03_JQuery_Events/03_JQuery_Events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/04_JQuery_Effects/04_JQuery_Effects.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/04_JQuery_Effects/04_JQuery_Effects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/05_JQuery_Examples/05_JQuery_Examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/05_JQuery_Examples/05_JQuery_Examples.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/06_JQuery_Forms_Manual/06_JQuery_Forms_Manual.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/06_JQuery_Forms_Manual/06_JQuery_Forms_Manual.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/07_JQuery_Forms_Auto/07_JQuery_Forms_Auto.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/07_JQuery_Forms_Auto/07_JQuery_Forms_Auto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/08_JQuery_Bootstrap/08_JQuery_Bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/08_JQuery_Bootstrap/08_JQuery_Bootstrap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/09_JQuery_Magnify_Plugin/09_JQuery_Magnify_Plugin.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/09_JQuery_Magnify_Plugin/09_JQuery_Magnify_Plugin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/10_JQuery_Count_To_Plugin/10_JQuery_Count_To_Plugin.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/10_JQuery_Count_To_Plugin/10_JQuery_Count_To_Plugin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/11_JQuery_Calculator_App/11_JQuery_Calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/11_JQuery_Calculator_App/11_JQuery_Calculator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/12_JQuery_Typing_Tester_App/12_JQuery_Typing_Tester.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/12_JQuery_Typing_Tester_App/12_JQuery_Typing_Tester.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/14_JQuery_AJAX/14_JQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/14_JQuery_AJAX/14_JQuery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/15_JQuery_AJAX_Cards/15_JQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/15_JQuery_AJAX_Cards/15_JQuery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/16_JQuery_guage_plugin/16_JQuery_Gauge.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/16_JQuery_guage_plugin/16_JQuery_Gauge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/17_Employee_Registration/17_Employee_Rgistration.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/17_Employee_Registration/17_Employee_Rgistration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/18_JQuery_Validator/18_JQuery_Bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/18_JQuery_Validator/18_JQuery_Bootstrap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/19_JQuery_Select_box/19_JQuery_Select.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery_Starter_Files/19_JQuery_Select_box/19_JQuery_Select.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/jquery/jquery-3.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/jquery/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/jquery/jquery-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/jquery/jquery-ui.structure.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JQuery_Starter_Files/jquery/jquery-ui.theme.css" beforeDir="false" />
-    </list>
+    <list default="true" id="56037404-aa52-46d5-86f4-66d8683dd019" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -124,8 +98,8 @@
       <file leaf-file-name="19_JQuery_Select.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JQuery_Starter_Files/19_JQuery_Select_box/19_JQuery_Select.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+            <state relative-caret-position="277">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -168,7 +142,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="38" />
     <option name="width" value="739" />
     <option name="height" value="720" />
@@ -314,7 +288,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Workspace/UI_Developement/Offline_Classes/11AM_BATCH/HTML/HTML_Completed_Files" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -345,25 +319,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555303618163</updated>
-      <workItem from="1555303619970" duration="175000" />
+      <workItem from="1555303619970" duration="812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175000" />
+    <option name="totallyTimeSpent" value="812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32843137" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -528,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JQuery_Starter_Files/19_JQuery_Select_box/19_JQuery_Select.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="56" column="49" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+        <state relative-caret-position="277">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
